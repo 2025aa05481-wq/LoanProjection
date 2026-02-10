@@ -1,3 +1,3 @@
-
 joblib
-xgboostscikit-learn==1.6.1
+xgboost
+scikit-learn==1.6.1
